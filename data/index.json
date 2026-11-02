@@ -1,5 +1,30 @@
 [
  {
+  "date": "2026-11-02",
+  "ai_projects": 10,
+  "models": 10
+ },
+ {
+  "date": "2026-11-01",
+  "ai_projects": 0,
+  "models": 10
+ },
+ {
+  "date": "2026-10-31",
+  "ai_projects": 0,
+  "models": 10
+ },
+ {
+  "date": "2026-10-30",
+  "ai_projects": 0,
+  "models": 10
+ },
+ {
+  "date": "2026-10-29",
+  "ai_projects": 0,
+  "models": 10
+ },
+ {
   "date": "2026-10-28",
   "ai_projects": 10,
   "models": 10
