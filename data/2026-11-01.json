@@ -1,0 +1,353 @@
+{
+ "date": "2026-11-01",
+ "ai_rank": {
+  "new_projects": [],
+  "star_growth": [],
+  "trending_models": [
+   {
+    "id": "Qwen/Qwen3.8-27B",
+    "likes": 18859,
+    "downloads": 7581050,
+    "pipeline": "image-text-to-text",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "black-forest-labs/FLUX.1-dev",
+    "likes": 15856,
+    "downloads": 570401,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+   },
+   {
+    "id": "deepseek-ai/DeepSeek-R1",
+    "likes": 14422,
+    "downloads": 1742424,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+   },
+   {
+    "id": "moonshotai/Kimi-K3",
+    "likes": 11890,
+    "downloads": 866041,
+    "pipeline": "image-text-to-text",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3"
+   },
+   {
+    "id": "Lightricks/LTX-2.5",
+    "likes": 10092,
+    "downloads": 2441077,
+    "pipeline": "image-to-video",
+    "url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "meta-llama/Llama-3.1-8B-Instruct",
+    "likes": 8711,
+    "downloads": 4620951,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct"
+   },
+   {
+    "id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "likes": 8419,
+    "downloads": 4400022,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
+   },
+   {
+    "id": "hexgrad/Kokoro-82M",
+    "likes": 7317,
+    "downloads": 11156376,
+    "pipeline": "text-to-speech",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+   },
+   {
+    "id": "CompVis/stable-diffusion-v1-4",
+    "likes": 7143,
+    "downloads": 463738,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4"
+   },
+   {
+    "id": "meta-llama/Meta-Llama-3-8B",
+    "likes": 6773,
+    "downloads": 135564,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B"
+   }
+  ]
+ },
+ "lang_trending": {
+  "Python": [],
+  "Go": [],
+  "Java": [],
+  "Rust": [],
+  "C#": []
+ },
+ "knowledge": {
+  "python": {
+   "code": "a = {\"x\": 1}; b = {\"y\": 2}\nprint(a | b)        # {'x': 1, 'y': 2}\nprint({**a, **b})   # 同上\nc = dict(a); c.update(b)",
+   "content": "Python 3.9+ 可用 | 运算符合并字典；3.5+ 用 {**a, **b}；update() 原地合并。后出现的键覆盖先出现的。注意 | 返回新字典不改变原字典。",
+   "title": "字典合并的三种写法",
+   "total": 30,
+   "day_n": 27
+  },
+  "go": {
+   "code": "// 值接收者：不修改原值，可并发安全读\n// 指针接收者：修改原值 / 避免大对象复制\n// 混用会导致方法集不一致，接口断言时要注意",
+   "content": "方法集规则：值类型 T 的方法集只有值接收者方法，*T 的方法集包含两者。所以实现接口时若用了指针接收者，只有指针类型满足接口。这是新手常踩的坑。",
+   "title": "方法集与接口的坑",
+   "total": 29,
+   "day_n": 27
+  },
+  "sql": {
+   "code": "INSERT INTO users(name, age)\nVALUES ('a', 20), ('b', 25), ('c', 30);\n-- 存在则更新（MySQL）\nINSERT ... ON DUPLICATE KEY UPDATE age=VALUES(age);",
+   "content": "多行 VALUES 一次插入多条，比循环单条快一个数量级。ON DUPLICATE KEY UPDATE 实现存在则更新。批量插入注意 max_allowed_packet 限制。",
+   "title": "批量插入",
+   "total": 29,
+   "day_n": 27
+  }
+ },
+ "prompts": {
+  "chatgpt": {
+   "title": "SQL 优化顾问",
+   "prompt": "以下SQL查询很慢，请帮我优化。表结构：[描述表和索引]。数据量约[数量级]。请：1) 指出慢的原因 2) 给出优化后的SQL 3) 说明是否需要加索引、加什么样的索引。\n\nSQL：\n[粘贴SQL]",
+   "total": 10,
+   "day_n": 7
+  },
+  "gemini": {
+   "title": "学习路径规划",
+   "prompt": "我想在[时长，如3个月]内掌握[技能]，目前水平是[描述]，每天可投入[时长]。请制定学习计划：按周划分，每周有明确目标、学习资源（书/课程/项目）、检验标准。并指出最容易放弃的阶段及应对方法。",
+   "total": 10,
+   "day_n": 7
+  },
+  "claude": {
+   "title": "读书笔记法",
+   "prompt": "我刚读完《[书名]》。请用以下框架帮我整理：1) 一句话核心观点 2) 3个对我有用的方法（配行动步骤） 3) 1个我不同意的观点及理由 4) 可以和哪本我读过的书对照着看。请先问我这本书给我的最大触动是什么。",
+   "total": 10,
+   "day_n": 7
+  },
+  "image": {
+   "title": "美食摄影",
+   "prompt": "overhead shot of [食物], rustic wooden table, natural window light, steam rising, appetizing, food magazine photography --ar 4:3",
+   "total": 10,
+   "day_n": 7
+  }
+ },
+ "tools": {
+  "categories": {
+   "AI绘图": [
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "最强开源文生图模型，可本地部署",
+     "name": "FLUX.1",
+     "url": "https://github.com/black-forest-labs/flux"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "经典开源文生图方案，生态最成熟",
+     "name": "Stable Diffusion",
+     "url": "https://github.com/Stability-AI/stablediffusion"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "OpenAI 图像生成，提示词理解极强",
+     "name": "DALL-E 3",
+     "url": "https://openai.com/dall-e-3"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "社区氛围最好的 AI 绘画工具",
+     "name": "Midjourney",
+     "url": "https://www.midjourney.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "开源 SD WebUI，功能最全的本地绘画界面",
+     "name": "Stable Diffusion WebUI",
+     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "节点式工作流，精细控制生成流程",
+     "name": "ComfyUI",
+     "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "Adobe 官方 AI 绘图，商用安全",
+     "name": "Adobe Firefly",
+     "url": "https://www.adobe.com/products/firefly.html"
+    }
+   ],
+   "AI视频": [
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "OpenAI 文生视频，物理世界理解出色",
+     "name": "Sora",
+     "url": "https://openai.com/sora"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "快手可灵，国内最强的视频生成",
+     "name": "可灵 Kling",
+     "url": "https://klingai.kuaishou.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "字节即梦，图生视频效果好",
+     "name": "即梦 Dreamina",
+     "url": "https://dreamina.jianying.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "Google 视频生成模型",
+     "name": "Veo",
+     "url": "https://deepmind.google/technologies/veo"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "老牌 AI 视频工具，数字人出色",
+     "name": "Runway",
+     "url": "https://runwayml.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "开源视频生成 Wan2.1，可本地跑",
+     "name": "Wan2.1",
+     "url": "https://github.com/Wan-Video/Wan2.1"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "AI 数字人视频，适合营销口播",
+     "name": "HeyGen",
+     "url": "https://www.heygen.com"
+    }
+   ],
+   "AI配音": [
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "最自然的 AI 语音克隆",
+     "name": "ElevenLabs",
+     "url": "https://elevenlabs.io"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "微软免费 TTS，质量极高",
+     "name": "Azure TTS",
+     "url": "https://azure.microsoft.com/products/ai-services/text-to-speech"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "开源语音克隆，只需 3 秒样本",
+     "name": "GPT-SoVITS",
+     "url": "https://github.com/RVC-Boss/GPT-SoVITS"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "开源 TTS 工具包，支持 300+ 语言",
+     "name": "Coqui TTS",
+     "url": "https://github.com/coqui-ai/TTS"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "MiniMax 语音，多语言自然",
+     "name": "MiniMax Speech",
+     "url": "https://www.minimaxi.com"
+    }
+   ],
+   "AI编程": [
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "最流行的 AI 结对编程插件",
+     "name": "GitHub Copilot",
+     "url": "https://github.com/features/copilot"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "终端里的 AI 编程助手",
+     "name": "Muse",
+     "url": "https://www.anthropic.com/claude-code"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "AI 原生 IDE，程序员新宠",
+     "name": "Cursor",
+     "url": "https://www.cursor.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "开源 AI 编程助手，隐私友好",
+     "name": "Continue",
+     "url": "https://github.com/continuedev/continue"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "自然语言生成全栈应用",
+     "name": "v0",
+     "url": "https://v0.dev"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "Google 免费 AI 编程 CLI",
+     "name": "Gemini CLI",
+     "url": "https://github.com/google-gemini/gemini-cli"
+    }
+   ],
+   "AI对话": [
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "最强的通用大模型之一",
+     "name": "ChatGPT",
+     "url": "https://chat.openai.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "Anthropic 出品，长文写作最强",
+     "name": "Muse",
+     "url": "https://claude.ai"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "Google 大模型，免费额度大",
+     "name": "Gemini",
+     "url": "https://gemini.google.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "国产之光，推理能力强",
+     "name": "DeepSeek",
+     "url": "https://chat.deepseek.com"
+    }
+   ]
+  },
+  "new_this_week": []
+ }
+}
