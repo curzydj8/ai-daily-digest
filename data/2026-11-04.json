@@ -1,0 +1,880 @@
+{
+ "date": "2026-11-04",
+ "ai_rank": {
+  "new_projects": [
+   {
+    "full_name": "Jumbomuffin777/Frontier-UI",
+    "name": "Frontier-UI",
+    "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link prev",
+    "stars": 58,
+    "lang": "Python",
+    "url": "https://github.com/Jumbomuffin777/Frontier-UI",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "vixhal-baraiya/qwenFS",
+    "name": "qwenFS",
+    "desc": "Qwen3.5-2B with a filesystem compiled and inserted directly into its weights.",
+    "stars": 30,
+    "lang": "Python",
+    "url": "https://github.com/vixhal-baraiya/qwenFS",
+    "created": "2026-11-02"
+   },
+   {
+    "full_name": "Anil-matcha/open-spaces",
+    "name": "open-spaces",
+    "desc": "Free, open-source alternative to ChatGPT Spaces: a self-hostable AI workspace for shared pages and conversations.",
+    "stars": 4,
+    "lang": "JavaScript",
+    "url": "https://github.com/Anil-matcha/open-spaces",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "biletian/awesome-ai-news-sources-zh",
+    "name": "awesome-ai-news-sources-zh",
+    "desc": "精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike",
+    "stars": 3,
+    "lang": "Python",
+    "url": "https://github.com/biletian/awesome-ai-news-sources-zh",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "bogdancstrike/image-organizer",
+    "name": "image-organizer",
+    "desc": "Turn a messy photo folder into beautifully organized albums. Locally, in seconds, with an undo button.  Sort by what's in the photos, cull a shoot like a pro (b",
+    "stars": 3,
+    "lang": "Python",
+    "url": "https://github.com/bogdancstrike/image-organizer",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "abchughtai786/automated-job-posting-pipeline",
+    "name": "automated-job-posting-pipeline",
+    "desc": "Node.js pipeline that collects, screens with AI, de-duplicates and publishes job listings demo with sample data",
+    "stars": 3,
+    "lang": "JavaScript",
+    "url": "https://github.com/abchughtai786/automated-job-posting-pipeline",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "KCFindstr/RSI-Bench",
+    "name": "RSI-Bench",
+    "desc": "Frontier Foundation Model Benchmark",
+    "stars": 3,
+    "lang": "Python",
+    "url": "https://github.com/KCFindstr/RSI-Bench",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "ashh-droid/AksharaCheck",
+    "name": "AksharaCheck",
+    "desc": "AksharaCheck detects Hindi and Kannada text-rendering issues using Chromium, with multilingual BharatCode AI explanations, visual evidence, and browser-verified",
+    "stars": 3,
+    "lang": "HTML",
+    "url": "https://github.com/ashh-droid/AksharaCheck",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "A220man/atlas-lens-144",
+    "name": "atlas-lens-144",
+    "desc": "Ryan Vo | Work in progress: atlas-lens-144",
+    "stars": 2,
+    "lang": "Python",
+    "url": "https://github.com/A220man/atlas-lens-144",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "A220man/beacon-observatory-144",
+    "name": "beacon-observatory-144",
+    "desc": "Ryan Vo | Work in progress: beacon-observatory-144",
+    "stars": 2,
+    "lang": "TypeScript",
+    "url": "https://github.com/A220man/beacon-observatory-144",
+    "created": "2026-10-29"
+   }
+  ],
+  "star_growth": [
+   {
+    "full_name": "comfyanonymous/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local infer",
+    "stars": 144872,
+    "delta": 200,
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+   },
+   {
+    "full_name": "ollama/ollama",
+    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "stars": 185817,
+    "delta": 100,
+    "url": "https://github.com/ollama/ollama"
+   },
+   {
+    "full_name": "ggerganov/llama.cpp",
+    "desc": "LLM inference in C/C++",
+    "stars": 133294,
+    "delta": 98,
+    "url": "https://github.com/ggml-org/llama.cpp"
+   },
+   {
+    "full_name": "openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "stars": 111892,
+    "delta": 85,
+    "url": "https://github.com/openai/whisper"
+   },
+   {
+    "full_name": "langchain-ai/langchain",
+    "desc": "The agent engineering platform.",
+    "stars": 148971,
+    "delta": 68,
+    "url": "https://github.com/langchain-ai/langchain"
+   },
+   {
+    "full_name": "huggingface/transformers",
+    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and ",
+    "stars": 168505,
+    "delta": 47,
+    "url": "https://github.com/huggingface/transformers"
+   },
+   {
+    "full_name": "assafelovic/gpt-researcher",
+    "desc": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "stars": 30468,
+    "delta": 30,
+    "url": "https://github.com/assafelovic/gpt-researcher"
+   },
+   {
+    "full_name": "microsoft/autogen",
+    "desc": "A programming framework for agentic AI",
+    "stars": 61692,
+    "delta": 12,
+    "url": "https://github.com/microsoft/autogen"
+   },
+   {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "stars": 165236,
+    "delta": 6,
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+   },
+   {
+    "full_name": "FlowiseAI/Flowise",
+    "desc": "Build AI Agents, Visually",
+    "stars": 55547,
+    "delta": 3,
+    "url": "https://github.com/FlowiseAI/Flowise"
+   }
+  ],
+  "trending_models": [
+   {
+    "id": "Qwen/Qwen3.8-27B",
+    "likes": 19078,
+    "downloads": 8014877,
+    "pipeline": "image-text-to-text",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "black-forest-labs/FLUX.1-dev",
+    "likes": 15921,
+    "downloads": 542979,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+   },
+   {
+    "id": "deepseek-ai/DeepSeek-R1",
+    "likes": 14428,
+    "downloads": 1681132,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+   },
+   {
+    "id": "moonshotai/Kimi-K3",
+    "likes": 11932,
+    "downloads": 779427,
+    "pipeline": "image-text-to-text",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3"
+   },
+   {
+    "id": "Lightricks/LTX-2.5",
+    "likes": 10489,
+    "downloads": 2488128,
+    "pipeline": "image-to-video",
+    "url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "meta-llama/Llama-3.1-8B-Instruct",
+    "likes": 8779,
+    "downloads": 4475436,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct"
+   },
+   {
+    "id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "likes": 8435,
+    "downloads": 4535587,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
+   },
+   {
+    "id": "hexgrad/Kokoro-82M",
+    "likes": 7337,
+    "downloads": 11535189,
+    "pipeline": "text-to-speech",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+   },
+   {
+    "id": "CompVis/stable-diffusion-v1-4",
+    "likes": 7145,
+    "downloads": 463642,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4"
+   },
+   {
+    "id": "meta-llama/Meta-Llama-3-8B",
+    "likes": 6779,
+    "downloads": 132549,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B"
+   }
+  ]
+ },
+ "lang_trending": {
+  "Python": [
+   {
+    "full_name": "BryceYuuu/RUN",
+    "name": "RUN",
+    "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+    "stars": 3025,
+    "lang": "Python",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "Pika-Labs/Pika-H3-Flex",
+    "name": "Pika-H3-Flex",
+    "desc": "Pika H3 Flex: video and audio generation inference",
+    "stars": 1282,
+    "lang": "Python",
+    "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "hyz317/HairDeck",
+    "name": "HairDeck",
+    "desc": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+    "stars": 778,
+    "lang": "Python",
+    "url": "https://github.com/hyz317/HairDeck",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "RikiyaT/lm_understand-logs",
+    "name": "lm_understand-logs",
+    "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+    "stars": 733,
+    "lang": "Python",
+    "url": "https://github.com/RikiyaT/lm_understand-logs",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "AssassinCreator/steam-stash-value-report-card",
+    "name": "steam-stash-value-report-card",
+    "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+    "stars": 702,
+    "lang": "Python",
+    "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+    "created": "2026-11-02"
+   },
+   {
+    "full_name": "ramenvr/autopilot",
+    "name": "autopilot",
+    "desc": "Play any game",
+    "stars": 688,
+    "lang": "Python",
+    "url": "https://github.com/ramenvr/autopilot",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "N1nEmAn/sapper-v2",
+    "name": "sapper-v2",
+    "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unat",
+    "stars": 660,
+    "lang": "Python",
+    "url": "https://github.com/N1nEmAn/sapper-v2",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "smarkyie/NSP-Box",
+    "name": "NSP-Box",
+    "desc": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching.",
+    "stars": 409,
+    "lang": "Python",
+    "url": "https://github.com/smarkyie/NSP-Box",
+    "created": "2026-10-31"
+   }
+  ],
+  "Go": [
+   {
+    "full_name": "paipiange/nvzhuang",
+    "name": "nvzhuang",
+    "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "stars": 2122,
+    "lang": "Go",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "Balanov/uncut",
+    "name": "uncut",
+    "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+    "stars": 592,
+    "lang": "Go",
+    "url": "https://github.com/Balanov/uncut",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "Balanov/shim",
+    "name": "shim",
+    "desc": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+    "stars": 432,
+    "lang": "Go",
+    "url": "https://github.com/Balanov/shim",
+    "created": "2026-11-02"
+   },
+   {
+    "full_name": "Balanov/skein",
+    "name": "skein",
+    "desc": "Fail-closed swarm orchestration with epoch-fenced work and late-completion rejection.",
+    "stars": 260,
+    "lang": "Go",
+    "url": "https://github.com/Balanov/skein",
+    "created": "2026-11-02"
+   },
+   {
+    "full_name": "egoist/godraw",
+    "name": "godraw",
+    "desc": "infinite canvas in mygo",
+    "stars": 203,
+    "lang": "Go",
+    "url": "https://github.com/egoist/godraw",
+    "created": "2026-11-02"
+   },
+   {
+    "full_name": "do-whilefor/zcode2api",
+    "name": "zcode2api",
+    "desc": "ZCode(智谱、Zai）毒鸡蛋反代，优化免费账号并发重试问题，支持免费额度以及领取免费token。",
+    "stars": 98,
+    "lang": "Go",
+    "url": "https://github.com/do-whilefor/zcode2api",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "glance522/rf4_server_simulator",
+    "name": "rf4_server_simulator",
+    "desc": "RF4 local server simulator for client 4.0.25034",
+    "stars": 96,
+    "lang": "Go",
+    "url": "https://github.com/glance522/rf4_server_simulator",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "wangshen233/appleservices-family-private",
+    "name": "appleservices-family-private",
+    "desc": "Private AppleServices workspace with iCloud activation, purchase, region and Family Sharing workflows",
+    "stars": 84,
+    "lang": "Go",
+    "url": "https://github.com/wangshen233/appleservices-family-private",
+    "created": "2026-10-29"
+   }
+  ],
+  "Java": [
+   {
+    "full_name": "MarkBlah/smsofdeath",
+    "name": "smsofdeath",
+    "desc": "remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.",
+    "stars": 493,
+    "lang": "Java",
+    "url": "https://github.com/MarkBlah/smsofdeath",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "GitMag/UnknownAuto",
+    "name": "UnknownAuto",
+    "desc": "Sideload and install your favourite Android Auto applications from unknown souces using UnknownAuto with just your phone.",
+    "stars": 213,
+    "lang": "Java",
+    "url": "https://github.com/GitMag/UnknownAuto",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "Straitbrashadow/minecraft-ai-mod-builder",
+    "name": "minecraft-ai-mod-builder",
+    "desc": "Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too. ",
+    "stars": 200,
+    "lang": "Java",
+    "url": "https://github.com/Straitbrashadow/minecraft-ai-mod-builder",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "DolphinStronghold9/ai-minecraft-modmaker",
+    "name": "ai-minecraft-modmaker",
+    "desc": "Describe a mod or a structure and this terminal agent builds it in Minecraft: ghost preview before placing, one-step undo, datapacks that reload clean, survival",
+    "stars": 176,
+    "lang": "Java",
+    "url": "https://github.com/DolphinStronghold9/ai-minecraft-modmaker",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "SAINTTaiYi/SpektraLab-Android",
+    "name": "SpektraLab-Android",
+    "desc": "Unofficial Android port of the SpektraLab film & paper simulation engine (Vulkan): RAW in, physically modelled film out, on the phone.",
+    "stars": 132,
+    "lang": "Java",
+    "url": "https://github.com/SAINTTaiYi/SpektraLab-Android",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "GeneralZyonix/morphe-download-helper",
+    "name": "morphe-download-helper",
+    "desc": "Unofficial APK download helper for Morphe Manager: APKMirror, APKPure, Uptodown, F-Droid and Aptoide fallbacks",
+    "stars": 75,
+    "lang": "Java",
+    "url": "https://github.com/GeneralZyonix/morphe-download-helper",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "samyeei/thinksmart-learning-station",
+    "name": "thinksmart-learning-station",
+    "desc": "Turn a ThinkSmart View into a family learning station: ChatGPT, manual Chinese keyboard, offline dashboard, and local parent controls. Source preview.",
+    "stars": 54,
+    "lang": "Java",
+    "url": "https://github.com/samyeei/thinksmart-learning-station",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "zecoxao/BD-JB-Relapse",
+    "name": "BD-JB-Relapse",
+    "desc": "BD-JB Relapse for 13.42 and below by zecoxao, EchoStretch and Claude",
+    "stars": 54,
+    "lang": "Java",
+    "url": "https://github.com/zecoxao/BD-JB-Relapse",
+    "created": "2026-11-01"
+   }
+  ],
+  "Rust": [
+   {
+    "full_name": "storytold/craft-anything",
+    "name": "craft-anything",
+    "desc": "Craft Anything: understand how any software works, and craft your own.",
+    "stars": 8343,
+    "lang": "Rust",
+    "url": "https://github.com/storytold/craft-anything",
+    "created": "2026-10-31"
+   },
+   {
+    "full_name": "ashayas/icloud-s3",
+    "name": "icloud-s3",
+    "desc": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
+    "stars": 490,
+    "lang": "Rust",
+    "url": "https://github.com/ashayas/icloud-s3",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "ShineFinancialStrut/game-server-route-racer",
+    "name": "game-server-route-racer",
+    "desc": "Detour times every route to your game server, puts only the game's traffic on the fastest one, and says so plainly when no route can help. Free relays: your own",
+    "stars": 375,
+    "lang": "Rust",
+    "url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+    "created": "2026-10-31"
+   },
+   {
+    "full_name": "sqlpxc/airhand",
+    "name": "airhand",
+    "desc": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+    "stars": 340,
+    "lang": "Rust",
+    "url": "https://github.com/sqlpxc/airhand",
+    "created": "2026-10-31"
+   },
+   {
+    "full_name": "Weft-Rust/Weft",
+    "name": "Weft",
+    "desc": "",
+    "stars": 301,
+    "lang": "Rust",
+    "url": "https://github.com/Weft-Rust/Weft",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "earendil-works/djs",
+    "name": "djs",
+    "desc": "",
+    "stars": 218,
+    "lang": "Rust",
+    "url": "https://github.com/earendil-works/djs",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "UpperSupervisor/horizon-modpack-compatibility",
+    "name": "horizon-modpack-compatibility",
+    "desc": "Drop your mods folder, a Prism or MultiMC instance or an .mrpack on Hopper and it answers what Horizon already does, what has a port and what is not there yet, ",
+    "stars": 218,
+    "lang": "Rust",
+    "url": "https://github.com/UpperSupervisor/horizon-modpack-compatibility",
+    "created": "2026-10-31"
+   },
+   {
+    "full_name": "Ceilingpiintensify/horizon-mod-checker",
+    "name": "horizon-mod-checker",
+    "desc": "Is my mod on Horizon? Type a name or drop your whole pack and every mod gets one plain answer: built in, ported, works or not yet. What works installs in one cl",
+    "stars": 209,
+    "lang": "Rust",
+    "url": "https://github.com/Ceilingpiintensify/horizon-mod-checker",
+    "created": "2026-10-31"
+   }
+  ],
+  "C#": [
+   {
+    "full_name": "brenpoly/CardboardXR",
+    "name": "CardboardXR",
+    "desc": "Google Cardboard with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
+    "stars": 176,
+    "lang": "C#",
+    "url": "https://github.com/brenpoly/CardboardXR",
+    "created": "2026-10-29"
+   },
+   {
+    "full_name": "capri-com/Capri-AI",
+    "name": "Capri-AI",
+    "desc": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+    "stars": 82,
+    "lang": "C#",
+    "url": "https://github.com/capri-com/Capri-AI",
+    "created": "2026-11-03"
+   },
+   {
+    "full_name": "sdparklab/Voltide",
+    "name": "Voltide",
+    "desc": "Battery monitor for 2.4 GHz wireless peripherals",
+    "stars": 68,
+    "lang": "C#",
+    "url": "https://github.com/sdparklab/Voltide",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "Take00C/Tsukihime-Native-PC-Port",
+    "name": "Tsukihime-Native-PC-Port",
+    "desc": "",
+    "stars": 65,
+    "lang": "C#",
+    "url": "https://github.com/Take00C/Tsukihime-Native-PC-Port",
+    "created": "2026-10-31"
+   },
+   {
+    "full_name": "LBEILC/Pane",
+    "name": "Pane",
+    "desc": "Windows 11 上的启动器、鼠标手势和剪贴板工具，磨砂玻璃风格",
+    "stars": 63,
+    "lang": "C#",
+    "url": "https://github.com/LBEILC/Pane",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "dis0rder0x00/TrustedHive",
+    "name": "TrustedHive",
+    "desc": "LPE Proof-of-Concept for Windows 11 abusing TrustedInstaller's Component Based Servicing (CBS) session COM object and junctions for arbitrary file write.",
+    "stars": 55,
+    "lang": "C#",
+    "url": "https://github.com/dis0rder0x00/TrustedHive",
+    "created": "2026-11-01"
+   },
+   {
+    "full_name": "LocalExile/Waypoint",
+    "name": "Waypoint",
+    "desc": "Workspace Manager for LocalExile",
+    "stars": 55,
+    "lang": "C#",
+    "url": "https://github.com/LocalExile/Waypoint",
+    "created": "2026-10-30"
+   },
+   {
+    "full_name": "rikujoukoro/stardew-valley-enhanced-vita",
+    "name": "stardew-valley-enhanced-vita",
+    "desc": "Unofficial PS Vita port of Stardew Valley 1.6 — build it from your own Steam copy (Windows; Linux/macOS experimental)",
+    "stars": 49,
+    "lang": "C#",
+    "url": "https://github.com/rikujoukoro/stardew-valley-enhanced-vita",
+    "created": "2026-10-31"
+   }
+  ]
+ },
+ "knowledge": {
+  "python": {
+   "code": "# 创建并激活\n# python -m venv .venv\n# source .venv/bin/activate  (Windows: .venv\\Scripts\\activate)\n# pip install requests\n# pip freeze > requirements.txt",
+   "content": "每个项目用独立虚拟环境隔离依赖，避免版本冲突。python -m venv .venv 创建，source .venv/bin/activate 激活。pip freeze > requirements.txt 锁定依赖。",
+   "title": "venv 虚拟环境",
+   "total": 30,
+   "day_n": 30
+  },
+  "go": {
+   "code": "package main\nimport \"fmt\"\nfunc main() {\n    fmt.Println(\"hello\")\n}\n// go run main.go 直接运行；go build 生成可执行文件",
+   "content": "每个 Go 程序都从 package main 的 func main() 开始。go run 直接编译运行（不留文件），go build 生成可执行文件。文件名随意，但包名 main 是入口要求。",
+   "title": "第一个 Go 程序",
+   "total": 29,
+   "day_n": 1
+  },
+  "sql": {
+   "code": "-- 每个值只出现一次\nSELECT DISTINCT city FROM users;\n-- 多列去重：整行组合不重复\nSELECT DISTINCT city, age FROM users;",
+   "content": "DISTINCT 对 SELECT 的全部列生效，是整行去重，不是单列去重。需要单列去重统计时用 COUNT(DISTINCT col)。大数据量去重注意性能。",
+   "title": "DISTINCT 去重",
+   "total": 29,
+   "day_n": 1
+  }
+ },
+ "prompts": {
+  "chatgpt": {
+   "title": "周报生成器",
+   "prompt": "根据以下本周工作碎片，生成一份专业周报。要求：按项目分组，突出成果和数据，问题部分客观不推诿，下周计划具体可衡量。语气简洁。\n\n工作碎片：\n[粘贴内容]",
+   "total": 10,
+   "day_n": 10
+  },
+  "gemini": {
+   "title": "面试模拟官",
+   "prompt": "请扮演[公司][岗位]的面试官，进行一轮模拟面试。规则：一次只问一个问题，根据我的回答追问或切换话题，覆盖技术深度和项目经验。结束后给出评分（1-10）和3条具体改进建议。先问第一个问题。",
+   "total": 10,
+   "day_n": 10
+  },
+  "claude": {
+   "title": "复盘框架",
+   "prompt": "请带我做一次结构化复盘。项目是[描述]，结果是[结果]。按顺序问我：1) 当初的目标是什么 2) 实际发生了什么（事实） 3) 做得好的3点及原因 4) 可以更好的2点及根因 5) 下次的一个具体改变。一次问一个，等我回答完再问下一个。",
+   "total": 10,
+   "day_n": 10
+  },
+  "image": {
+   "title": "复古海报",
+   "prompt": "vintage poster design, [主题], retro typography, grain texture, limited color palette, 1950s advertising style --ar 2:3",
+   "total": 10,
+   "day_n": 10
+  }
+ },
+ "tools": {
+  "categories": {
+   "AI绘图": [
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "最强开源文生图模型，可本地部署",
+     "name": "FLUX.1",
+     "url": "https://github.com/black-forest-labs/flux"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "经典开源文生图方案，生态最成熟",
+     "name": "Stable Diffusion",
+     "url": "https://github.com/Stability-AI/stablediffusion"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "OpenAI 图像生成，提示词理解极强",
+     "name": "DALL-E 3",
+     "url": "https://openai.com/dall-e-3"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "社区氛围最好的 AI 绘画工具",
+     "name": "Midjourney",
+     "url": "https://www.midjourney.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "开源 SD WebUI，功能最全的本地绘画界面",
+     "name": "Stable Diffusion WebUI",
+     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "节点式工作流，精细控制生成流程",
+     "name": "ComfyUI",
+     "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "Adobe 官方 AI 绘图，商用安全",
+     "name": "Adobe Firefly",
+     "url": "https://www.adobe.com/products/firefly.html"
+    }
+   ],
+   "AI视频": [
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "OpenAI 文生视频，物理世界理解出色",
+     "name": "Sora",
+     "url": "https://openai.com/sora"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "快手可灵，国内最强的视频生成",
+     "name": "可灵 Kling",
+     "url": "https://klingai.kuaishou.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "字节即梦，图生视频效果好",
+     "name": "即梦 Dreamina",
+     "url": "https://dreamina.jianying.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "Google 视频生成模型",
+     "name": "Veo",
+     "url": "https://deepmind.google/technologies/veo"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "老牌 AI 视频工具，数字人出色",
+     "name": "Runway",
+     "url": "https://runwayml.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "开源视频生成 Wan2.1，可本地跑",
+     "name": "Wan2.1",
+     "url": "https://github.com/Wan-Video/Wan2.1"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "AI 数字人视频，适合营销口播",
+     "name": "HeyGen",
+     "url": "https://www.heygen.com"
+    }
+   ],
+   "AI配音": [
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "最自然的 AI 语音克隆",
+     "name": "ElevenLabs",
+     "url": "https://elevenlabs.io"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "微软免费 TTS，质量极高",
+     "name": "Azure TTS",
+     "url": "https://azure.microsoft.com/products/ai-services/text-to-speech"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "开源语音克隆，只需 3 秒样本",
+     "name": "GPT-SoVITS",
+     "url": "https://github.com/RVC-Boss/GPT-SoVITS"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "开源 TTS 工具包，支持 300+ 语言",
+     "name": "Coqui TTS",
+     "url": "https://github.com/coqui-ai/TTS"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "MiniMax 语音，多语言自然",
+     "name": "MiniMax Speech",
+     "url": "https://www.minimaxi.com"
+    }
+   ],
+   "AI编程": [
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "最流行的 AI 结对编程插件",
+     "name": "GitHub Copilot",
+     "url": "https://github.com/features/copilot"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "终端里的 AI 编程助手",
+     "name": "Muse",
+     "url": "https://www.anthropic.com/claude-code"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "AI 原生 IDE，程序员新宠",
+     "name": "Cursor",
+     "url": "https://www.cursor.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "开源 AI 编程助手，隐私友好",
+     "name": "Continue",
+     "url": "https://github.com/continuedev/continue"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "自然语言生成全栈应用",
+     "name": "v0",
+     "url": "https://v0.dev"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "Google 免费 AI 编程 CLI",
+     "name": "Gemini CLI",
+     "url": "https://github.com/google-gemini/gemini-cli"
+    }
+   ],
+   "AI对话": [
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "最强的通用大模型之一",
+     "name": "ChatGPT",
+     "url": "https://chat.openai.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "Anthropic 出品，长文写作最强",
+     "name": "Muse",
+     "url": "https://claude.ai"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "Google 大模型，免费额度大",
+     "name": "Gemini",
+     "url": "https://gemini.google.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "国产之光，推理能力强",
+     "name": "DeepSeek",
+     "url": "https://chat.deepseek.com"
+    }
+   ]
+  },
+  "new_this_week": []
+ }
+}
