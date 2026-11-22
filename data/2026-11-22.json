@@ -1,0 +1,880 @@
+{
+ "date": "2026-11-22",
+ "ai_rank": {
+  "new_projects": [
+   {
+    "full_name": "JieFedorov81/runway-ml-pro-win",
+    "name": "runway-ml-pro-win",
+    "desc": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+    "stars": 40,
+    "lang": null,
+    "url": "https://github.com/JieFedorov81/runway-ml-pro-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "Morriswawan05/elevenlabs-pro-win",
+    "name": "elevenlabs-pro-win",
+    "desc": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
+    "stars": 40,
+    "lang": null,
+    "url": "https://github.com/Morriswawan05/elevenlabs-pro-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "GuzmanJacqueline93/copy-ai-pro-win",
+    "name": "copy-ai-pro-win",
+    "desc": "Copy Ai Pro - AI copywriting assistant for content generation, tone rewriting and SEO text optimization on Windows 10/11",
+    "stars": 40,
+    "lang": null,
+    "url": "https://github.com/GuzmanJacqueline93/copy-ai-pro-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "Juanlabs1989/descript-pro-win",
+    "name": "descript-pro-win",
+    "desc": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+    "stars": 38,
+    "lang": null,
+    "url": "https://github.com/Juanlabs1989/descript-pro-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "Cloudcode04/runway-ml-pro-win",
+    "name": "runway-ml-pro-win",
+    "desc": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+    "stars": 38,
+    "lang": null,
+    "url": "https://github.com/Cloudcode04/runway-ml-pro-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "debugdigital677/descript-pro-win",
+    "name": "descript-pro-win",
+    "desc": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+    "stars": 37,
+    "lang": null,
+    "url": "https://github.com/debugdigital677/descript-pro-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "isanders5152/descript-pro-win",
+    "name": "descript-pro-win",
+    "desc": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+    "stars": 27,
+    "lang": null,
+    "url": "https://github.com/isanders5152/descript-pro-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "suryacode04/jasper-ai-win",
+    "name": "jasper-ai-win",
+    "desc": "Jasper AI - AI content generation platform for marketing copy creation, brand voice customization and long-form article drafting on Windows 10/11",
+    "stars": 22,
+    "lang": null,
+    "url": "https://github.com/suryacode04/jasper-ai-win",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "lucidrains/supermimic-pytorch",
+    "name": "supermimic-pytorch",
+    "desc": "Unofficial implementation of Supermimic, Scaling Humanoid Whole-Body Control with One Differentiable World Model, from Qiayuan Liao et al. of Berkeley",
+    "stars": 15,
+    "lang": "Python",
+    "url": "https://github.com/lucidrains/supermimic-pytorch",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "cookllm/AI-PhD-Internships-2027",
+    "name": "AI-PhD-Internships-2027",
+    "desc": "AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply lin",
+    "stars": 4,
+    "lang": "Python",
+    "url": "https://github.com/cookllm/AI-PhD-Internships-2027",
+    "created": "2026-11-17"
+   }
+  ],
+  "star_growth": [
+   {
+    "full_name": "comfyanonymous/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local infer",
+    "stars": 147978,
+    "delta": 141,
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+   },
+   {
+    "full_name": "ggerganov/llama.cpp",
+    "desc": "LLM inference in C/C++",
+    "stars": 135926,
+    "delta": 59,
+    "url": "https://github.com/ggml-org/llama.cpp"
+   },
+   {
+    "full_name": "openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "stars": 113229,
+    "delta": 54,
+    "url": "https://github.com/openai/whisper"
+   },
+   {
+    "full_name": "ollama/ollama",
+    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "stars": 187791,
+    "delta": 30,
+    "url": "https://github.com/ollama/ollama"
+   },
+   {
+    "full_name": "assafelovic/gpt-researcher",
+    "desc": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "stars": 30818,
+    "delta": 18,
+    "url": "https://github.com/assafelovic/gpt-researcher"
+   },
+   {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "stars": 165368,
+    "delta": 3,
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+   },
+   {
+    "full_name": "black-forest-labs/flux",
+    "desc": "Official inference repo for FLUX.1 models",
+    "stars": 26075,
+    "delta": 3,
+    "url": "https://github.com/black-forest-labs/flux"
+   },
+   {
+    "full_name": "microsoft/autogen",
+    "desc": "A programming framework for agentic AI",
+    "stars": 61956,
+    "delta": 2,
+    "url": "https://github.com/microsoft/autogen"
+   },
+   {
+    "full_name": "oobabooga/text-generation-webui",
+    "desc": "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",
+    "stars": 47734,
+    "delta": 0,
+    "url": "https://github.com/oobabooga/textgen"
+   },
+   {
+    "full_name": "FlowiseAI/Flowise",
+    "desc": "Build AI Agents, Visually",
+    "stars": 55583,
+    "delta": -1,
+    "url": "https://github.com/FlowiseAI/Flowise"
+   }
+  ],
+  "trending_models": [
+   {
+    "id": "Qwen/Qwen3.8-27B",
+    "likes": 20808,
+    "downloads": 6298190,
+    "pipeline": "image-text-to-text",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+   },
+   {
+    "id": "black-forest-labs/FLUX.1-dev",
+    "likes": 16289,
+    "downloads": 418989,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev"
+   },
+   {
+    "id": "deepseek-ai/DeepSeek-R1",
+    "likes": 14477,
+    "downloads": 1607298,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+   },
+   {
+    "id": "Lightricks/LTX-2.5",
+    "likes": 12943,
+    "downloads": 3000544,
+    "pipeline": "image-to-video",
+    "url": "https://huggingface.co/Lightricks/LTX-2.5"
+   },
+   {
+    "id": "moonshotai/Kimi-K3",
+    "likes": 12009,
+    "downloads": 731025,
+    "pipeline": "image-text-to-text",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3"
+   },
+   {
+    "id": "meta-llama/Llama-3.1-8B-Instruct",
+    "likes": 9064,
+    "downloads": 4070382,
+    "pipeline": "text-generation",
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct"
+   },
+   {
+    "id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "likes": 8496,
+    "downloads": 4808740,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0"
+   },
+   {
+    "id": "hexgrad/Kokoro-82M",
+    "likes": 7488,
+    "downloads": 13254461,
+    "pipeline": "text-to-speech",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M"
+   },
+   {
+    "id": "Qwen/Qwen3.8-Flash-Next",
+    "likes": 7370,
+    "downloads": 2601320,
+    "pipeline": "image-text-to-text",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+   },
+   {
+    "id": "CompVis/stable-diffusion-v1-4",
+    "likes": 7150,
+    "downloads": 440062,
+    "pipeline": "text-to-image",
+    "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4"
+   }
+  ]
+ },
+ "lang_trending": {
+  "Python": [
+   {
+    "full_name": "ItsNotRexed/Leonida",
+    "name": "Leonida",
+    "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "stars": 5239,
+    "lang": "Python",
+    "url": "https://github.com/ItsNotRexed/Leonida",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "gylive/google-ultra",
+    "name": "google-ultra",
+    "desc": "",
+    "stars": 2598,
+    "lang": "Python",
+    "url": "https://github.com/gylive/google-ultra",
+    "created": "2026-11-17"
+   },
+   {
+    "full_name": "iamajmeena/neonclipping",
+    "name": "neonclipping",
+    "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+    "stars": 1734,
+    "lang": "Python",
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "created": "2026-11-19"
+   },
+   {
+    "full_name": "sybil-solutions/inference-optimisation-skill",
+    "name": "inference-optimisation-skill",
+    "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+    "stars": 1636,
+    "lang": "Python",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "hatsunemiku-ai/google-one-tools",
+    "name": "google-one-tools",
+    "desc": "",
+    "stars": 1029,
+    "lang": "Python",
+    "url": "https://github.com/hatsunemiku-ai/google-one-tools",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "R0Y00/Xbox2Windows",
+    "name": "Xbox2Windows",
+    "desc": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks",
+    "stars": 918,
+    "lang": "Python",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "boringmarketer/boring-marketing-skills",
+    "name": "boring-marketing-skills",
+    "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+    "stars": 773,
+    "lang": "Python",
+    "url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "name": "Open-Source-Face-Recognition-Ultimate",
+    "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Att",
+    "stars": 525,
+    "lang": "Python",
+    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "created": "2026-11-19"
+   }
+  ],
+  "Go": [
+   {
+    "full_name": "prusa3d/prusa-connect",
+    "name": "prusa-connect",
+    "desc": "Prusa Connect: a local server for your printers",
+    "stars": 275,
+    "lang": "Go",
+    "url": "https://github.com/prusa3d/prusa-connect",
+    "created": "2026-11-17"
+   },
+   {
+    "full_name": "sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+    "name": "dlss-5-swapper-compatibility",
+    "desc": "Dlss 5 Swapper Compatibility streamlines replacing and managing DLSS version files.",
+    "stars": 152,
+    "lang": "Go",
+    "url": "https://github.com/sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "piyushverse001/quantconnect-lean-selvon-research",
+    "name": "quantconnect-lean-selvon-research",
+    "desc": "Quantconnect Lean Selvon Research: structured environment for strategy experiments and backtesting",
+    "stars": 150,
+    "lang": "Go",
+    "url": "https://github.com/piyushverse001/quantconnect-lean-selvon-research",
+    "created": "2026-11-18"
+   },
+   {
+    "full_name": "BuildLogic264/tmodloader-varriora",
+    "name": "tmodloader-varriora",
+    "desc": "Build and mod a living Terraria world through Varriora's tModLoader tools.",
+    "stars": 150,
+    "lang": "Go",
+    "url": "https://github.com/BuildLogic264/tmodloader-varriora",
+    "created": "2026-11-18"
+   },
+   {
+    "full_name": "Dhaarani007/palworld-coop-orroven",
+    "name": "palworld-coop-orroven",
+    "desc": "Plan shared Palworld sessions and coordinate co-op routes together.",
+    "stars": 149,
+    "lang": "Go",
+    "url": "https://github.com/Dhaarani007/palworld-coop-orroven",
+    "created": "2026-11-18"
+   },
+   {
+    "full_name": "geerlingguy/chronytop",
+    "name": "chronytop",
+    "desc": "A TUI for chrony NTP time server monitoring",
+    "stars": 143,
+    "lang": "Go",
+    "url": "https://github.com/geerlingguy/chronytop",
+    "created": "2026-11-18"
+   },
+   {
+    "full_name": "vulnix0x4/a-better-antivirus",
+    "name": "a-better-antivirus",
+    "desc": "Catches infostealers in the act on Windows: plants fake passwords, wallets and app data that only malware would read, and freezes whatever touches them.",
+    "stars": 127,
+    "lang": "Go",
+    "url": "https://github.com/vulnix0x4/a-better-antivirus",
+    "created": "2026-11-17"
+   },
+   {
+    "full_name": "hyperion-cs/appleseum",
+    "name": "appleseum",
+    "desc": "Your apps are here. Even apps delisted from the App Store — install them on iPhone/iPad without a cable.",
+    "stars": 103,
+    "lang": "Go",
+    "url": "https://github.com/hyperion-cs/appleseum",
+    "created": "2026-11-16"
+   }
+  ],
+  "Java": [
+   {
+    "full_name": "Entityglirescue/jenny-mod-official",
+    "name": "jenny-mod-official",
+    "desc": "Official Jenny Mod (Fapcraft) download for Minecraft Java and Bedrock. Get new characters, gameplay features, installation guide, and safe working files.",
+    "stars": 124,
+    "lang": "Java",
+    "url": "https://github.com/Entityglirescue/jenny-mod-official",
+    "created": "2026-11-17"
+   },
+   {
+    "full_name": "duppjuzo/ExtBridge",
+    "name": "ExtBridge",
+    "desc": "Root-free Android desktop extension over USB-C with independent display and input.",
+    "stars": 98,
+    "lang": "Java",
+    "url": "https://github.com/duppjuzo/ExtBridge",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "jyotiprakash101/horizon-home-kit",
+    "name": "horizon-home-kit",
+    "desc": "Ad-free Android TV home screen for Nuvio with a TiviMate-style Live TV guide — Claude sets it up for you",
+    "stars": 53,
+    "lang": "Java",
+    "url": "https://github.com/jyotiprakash101/horizon-home-kit",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "GitKittys/unidbg-kitty",
+    "name": "unidbg-kitty",
+    "desc": "kitty的unidbg  A fork of unidbg with Linux/AArch64 user-mode fidelity: EL0 privilege boundary, kernel-layout signal delivery, an instruction-driven virtual clock",
+    "stars": 50,
+    "lang": "Java",
+    "url": "https://github.com/GitKittys/unidbg-kitty",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "khemiriahmed/stockmanager-cloud",
+    "name": "stockmanager-cloud",
+    "desc": "",
+    "stars": 49,
+    "lang": "Java",
+    "url": "https://github.com/khemiriahmed/stockmanager-cloud",
+    "created": "2026-11-17"
+   },
+   {
+    "full_name": "oskar2517/spiral-worlds",
+    "name": "spiral-worlds",
+    "desc": "Turns Minecraft worlds into spirals",
+    "stars": 34,
+    "lang": "Java",
+    "url": "https://github.com/oskar2517/spiral-worlds",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "arnab8820/jf-landline",
+    "name": "jf-landline",
+    "desc": "",
+    "stars": 24,
+    "lang": "Java",
+    "url": "https://github.com/arnab8820/jf-landline",
+    "created": "2026-11-19"
+   },
+   {
+    "full_name": "BLCK-N/middleware",
+    "name": "middleware",
+    "desc": "",
+    "stars": 23,
+    "lang": "Java",
+    "url": "https://github.com/BLCK-N/middleware",
+    "created": "2026-11-17"
+   }
+  ],
+  "Rust": [
+   {
+    "full_name": "erkamyaman/rust-anything",
+    "name": "rust-anything",
+    "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScr",
+    "stars": 7411,
+    "lang": "Rust",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "Lemxy/WinRust",
+    "name": "WinRust",
+    "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+    "stars": 958,
+    "lang": "Rust",
+    "url": "https://github.com/Lemxy/WinRust",
+    "created": "2026-11-17"
+   },
+   {
+    "full_name": "omonkeyz/xbox-emulator",
+    "name": "xbox-emulator",
+    "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "stars": 758,
+    "lang": "Rust",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "scarletkc/colab-playground",
+    "name": "colab-playground",
+    "desc": "A desktop app for the Google Colab CLI: accounts, GPU sessions with cost guards, port forwarding and plugins.",
+    "stars": 309,
+    "lang": "Rust",
+    "url": "https://github.com/scarletkc/colab-playground",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "sohzm/winedroid",
+    "name": "winedroid",
+    "desc": "run android apps on web, linux, macOS and windows",
+    "stars": 198,
+    "lang": "Rust",
+    "url": "https://github.com/sohzm/winedroid",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "tweak-for-me/impulse",
+    "name": "impulse",
+    "desc": "Lightweight alternative Windows client for game trainers: hotkeys, overlay and phone control.",
+    "stars": 173,
+    "lang": "Rust",
+    "url": "https://github.com/tweak-for-me/impulse",
+    "created": "2026-11-20"
+   },
+   {
+    "full_name": "mitsuhiko/tvpipe",
+    "name": "tvpipe",
+    "desc": "Airplay/Chrome Cast anything",
+    "stars": 166,
+    "lang": "Rust",
+    "url": "https://github.com/mitsuhiko/tvpipe",
+    "created": "2026-11-18"
+   },
+   {
+    "full_name": "SamG-Coder/SmartImposter",
+    "name": "SmartImposter",
+    "desc": "Hardware ray-traced forest renderer (Rust + Vulkan) with parallax octahedral impostors evaluated by the RTX cores",
+    "stars": 160,
+    "lang": "Rust",
+    "url": "https://github.com/SamG-Coder/SmartImposter",
+    "created": "2026-11-17"
+   }
+  ],
+  "C#": [
+   {
+    "full_name": "chris-code-90e9/3utools-pro-mdm-unlocker-2026",
+    "name": "3utools-pro-mdm-unlocker-2026",
+    "desc": "3uTools Pro + iRemoval Pro Windows — 1-Click MDM Skip, IPA Sideloader & Virtual GPS (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-relo",
+    "stars": 517,
+    "lang": "C#",
+    "url": "https://github.com/chris-code-90e9/3utools-pro-mdm-unlocker-2026",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "Illson/RustText",
+    "name": "RustText",
+    "desc": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files.",
+    "stars": 465,
+    "lang": "C#",
+    "url": "https://github.com/Illson/RustText",
+    "created": "2026-11-16"
+   },
+   {
+    "full_name": "mark-j-ops2092d7/deep-live-cam-cuda-portable-portable",
+    "name": "deep-live-cam-cuda-portable-portable",
+    "desc": "Deep-Live-Cam v2.1 Portable (1-Click CUDA Installer) — Realtime Webcam FaceSwap for OBS/Discord (Portable Suite): native 64-bit Windows 10/11 portable x64 build",
+    "stars": 361,
+    "lang": "C#",
+    "url": "https://github.com/mark-j-ops2092d7/deep-live-cam-cuda-portable-portable",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "adamw-dev97l3/deep-live-cam-cuda-portable-2026",
+    "name": "deep-live-cam-cuda-portable-2026",
+    "desc": "Deep-Live-Cam v2.1 Portable (1-Click CUDA Installer) — Realtime Webcam FaceSwap for OBS/Discord (2026 Edition): native 64-bit Windows 10/11 portable x64 build w",
+    "stars": 351,
+    "lang": "C#",
+    "url": "https://github.com/adamw-dev97l3/deep-live-cam-cuda-portable-2026",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "dmitry-tech-code96u9/oringo-client-skyblock-dungeons-2026",
+    "name": "oringo-client-skyblock-dungeons-2026",
+    "desc": "Oringo Client 1.8.9 — Hypixel Skyblock Dungeon Auto-Terminals, Secret Aura & Slayer Mod (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-",
+    "stars": 349,
+    "lang": "C#",
+    "url": "https://github.com/dmitry-tech-code96u9/oringo-client-skyblock-dungeons-2026",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "Orbmu2k/NvidiaGsyncTweaks",
+    "name": "NvidiaGsyncTweaks",
+    "desc": "",
+    "stars": 172,
+    "lang": "C#",
+    "url": "https://github.com/Orbmu2k/NvidiaGsyncTweaks",
+    "created": "2026-11-18"
+   },
+   {
+    "full_name": "799953468/cloudreve-mac",
+    "name": "cloudreve-mac",
+    "desc": "",
+    "stars": 144,
+    "lang": "C#",
+    "url": "https://github.com/799953468/cloudreve-mac",
+    "created": "2026-11-21"
+   },
+   {
+    "full_name": "newtonstudios/convert",
+    "name": "convert",
+    "desc": "Like CloudConvert, but local: right-click any audio, video, image or document in Finder and convert it. Vibe-coded macOS app.",
+    "stars": 72,
+    "lang": "C#",
+    "url": "https://github.com/newtonstudios/convert",
+    "created": "2026-11-17"
+   }
+  ]
+ },
+ "knowledge": {
+  "python": {
+   "code": "from dataclasses import dataclass, field\n@dataclass\nclass User:\n    name: str\n    tags: list = field(default_factory=list)\n    level: int = 1\nu = User(\"amy\")\nprint(u)  # User(name='amy', tags=[], level=1)",
+   "content": "@dataclass 自动生成 __init__、__repr__、__eq__。适合纯数据容器。field(default_factory=list) 解决可变默认值问题；frozen=True 得到不可变对象。",
+   "title": "dataclass 减少样板代码",
+   "total": 30,
+   "day_n": 18
+  },
+  "go": {
+   "code": "// strings.Builder 高效拼字符串\nvar b strings.Builder\nfor i := 0; i < 1000; i++ {\n    b.WriteString(\"x\")\n}\ns := b.String()\n// 别用 += 循环拼接",
+   "content": "字符串不可变，循环 += 会反复分配内存。用 strings.Builder（或 bytes.Buffer）累积，最后 String() 一次生成。类似 Python 的 join 惯用法。",
+   "title": "strings.Builder 拼字符串",
+   "total": 29,
+   "day_n": 19
+  },
+  "sql": {
+   "code": "CREATE INDEX idx_user_city ON users(city);\n-- 复合索引注意最左前缀\nCREATE INDEX idx_a_b ON t(a, b);  -- 能加速 WHERE a=? 和 WHERE a=? AND b=?",
+   "content": "索引加速查询但拖慢写入，权衡。最左前缀原则：复合索引 (a,b) 对只查 b 的查询无效。EXPLAIN 看执行计划确认索引是否命中。",
+   "title": "索引基础",
+   "total": 29,
+   "day_n": 19
+  }
+ },
+ "prompts": {
+  "chatgpt": {
+   "title": "产品需求拆解",
+   "prompt": "我有一个产品想法：[一句话描述]。请帮我拆解成：1) 目标用户画像 2) 核心功能（MVP只做3个） 3) 明确不做的功能 4) 成功指标 5) 最大的3个风险。用简洁的条目输出。",
+   "total": 10,
+   "day_n": 8
+  },
+  "gemini": {
+   "title": "头脑风暴 facilitator",
+   "prompt": "我们要为[产品/活动]想创意，约束条件是[预算/时间/人群]。请用头脑风暴facilitator的角色：先给出10个发散想法（不评判），再用约束条件筛选出3个可行的，最后为每个可行想法补充一个落地的第一步。",
+   "total": 10,
+   "day_n": 8
+  },
+  "claude": {
+   "title": "需求访谈提纲",
+   "prompt": "我要访谈[用户群体]以了解[问题]。请设计访谈提纲：1) 3个破冰问题 2) 5个开放式核心问题（避免引导性） 3) 2个追问技巧示例 4) 结束时要确认的3个关键信息。并提醒我访谈中常见的3个错误。",
+   "total": 10,
+   "day_n": 8
+  },
+  "image": {
+   "title": "科幻概念图",
+   "prompt": "sci-fi concept art of [场景], epic scale, dramatic lighting, intricate details, matte painting style, artstation trending --ar 21:9",
+   "total": 10,
+   "day_n": 8
+  }
+ },
+ "tools": {
+  "categories": {
+   "AI绘图": [
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "最强开源文生图模型，可本地部署",
+     "name": "FLUX.1",
+     "url": "https://github.com/black-forest-labs/flux"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "经典开源文生图方案，生态最成熟",
+     "name": "Stable Diffusion",
+     "url": "https://github.com/Stability-AI/stablediffusion"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "OpenAI 图像生成，提示词理解极强",
+     "name": "DALL-E 3",
+     "url": "https://openai.com/dall-e-3"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "社区氛围最好的 AI 绘画工具",
+     "name": "Midjourney",
+     "url": "https://www.midjourney.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "开源 SD WebUI，功能最全的本地绘画界面",
+     "name": "Stable Diffusion WebUI",
+     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "节点式工作流，精细控制生成流程",
+     "name": "ComfyUI",
+     "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI绘图",
+     "desc": "Adobe 官方 AI 绘图，商用安全",
+     "name": "Adobe Firefly",
+     "url": "https://www.adobe.com/products/firefly.html"
+    }
+   ],
+   "AI视频": [
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "OpenAI 文生视频，物理世界理解出色",
+     "name": "Sora",
+     "url": "https://openai.com/sora"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "快手可灵，国内最强的视频生成",
+     "name": "可灵 Kling",
+     "url": "https://klingai.kuaishou.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "字节即梦，图生视频效果好",
+     "name": "即梦 Dreamina",
+     "url": "https://dreamina.jianying.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "Google 视频生成模型",
+     "name": "Veo",
+     "url": "https://deepmind.google/technologies/veo"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "老牌 AI 视频工具，数字人出色",
+     "name": "Runway",
+     "url": "https://runwayml.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "开源视频生成 Wan2.1，可本地跑",
+     "name": "Wan2.1",
+     "url": "https://github.com/Wan-Video/Wan2.1"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI视频",
+     "desc": "AI 数字人视频，适合营销口播",
+     "name": "HeyGen",
+     "url": "https://www.heygen.com"
+    }
+   ],
+   "AI配音": [
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "最自然的 AI 语音克隆",
+     "name": "ElevenLabs",
+     "url": "https://elevenlabs.io"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "微软免费 TTS，质量极高",
+     "name": "Azure TTS",
+     "url": "https://azure.microsoft.com/products/ai-services/text-to-speech"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "开源语音克隆，只需 3 秒样本",
+     "name": "GPT-SoVITS",
+     "url": "https://github.com/RVC-Boss/GPT-SoVITS"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "开源 TTS 工具包，支持 300+ 语言",
+     "name": "Coqui TTS",
+     "url": "https://github.com/coqui-ai/TTS"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI配音",
+     "desc": "MiniMax 语音，多语言自然",
+     "name": "MiniMax Speech",
+     "url": "https://www.minimaxi.com"
+    }
+   ],
+   "AI编程": [
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "最流行的 AI 结对编程插件",
+     "name": "GitHub Copilot",
+     "url": "https://github.com/features/copilot"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "终端里的 AI 编程助手",
+     "name": "Muse",
+     "url": "https://www.anthropic.com/claude-code"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "AI 原生 IDE，程序员新宠",
+     "name": "Cursor",
+     "url": "https://www.cursor.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "开源 AI 编程助手，隐私友好",
+     "name": "Continue",
+     "url": "https://github.com/continuedev/continue"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "自然语言生成全栈应用",
+     "name": "v0",
+     "url": "https://v0.dev"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI编程",
+     "desc": "Google 免费 AI 编程 CLI",
+     "name": "Gemini CLI",
+     "url": "https://github.com/google-gemini/gemini-cli"
+    }
+   ],
+   "AI对话": [
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "最强的通用大模型之一",
+     "name": "ChatGPT",
+     "url": "https://chat.openai.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "Anthropic 出品，长文写作最强",
+     "name": "Muse",
+     "url": "https://claude.ai"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "Google 大模型，免费额度大",
+     "name": "Gemini",
+     "url": "https://gemini.google.com"
+    },
+    {
+     "added": "2026-10-06",
+     "category": "AI对话",
+     "desc": "国产之光，推理能力强",
+     "name": "DeepSeek",
+     "url": "https://chat.deepseek.com"
+    }
+   ]
+  },
+  "new_this_week": []
+ }
+}
